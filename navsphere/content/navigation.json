@@ -102,7 +102,16 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755247362983_eks00vrxl",
+          "title": "Kimi - 会推理解析，能深度思考的AI助手",
+          "href": "https://www.kimi.com/",
+          "description": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi - Moonshot AI 出品的智能助手",
+          "icon": "/assets/favicon_1755247356237.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
