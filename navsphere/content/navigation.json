@@ -100,6 +100,14 @@
           "description": "",
           "icon": "/assets/favicon_1755313292672.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755313451688_8hdi4mixk",
+          "title": "Reddit Insights - AI-Powered Reddit Analysis",
+          "href": "https://www.reddit-insights.com/",
+          "description": "Discover insights and opportunities from Reddit discussions using AI analysis",
+          "icon": "/assets/favicon_1755313445884.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
